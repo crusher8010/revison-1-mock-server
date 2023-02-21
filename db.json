@@ -1,3 +1,11 @@
 {
-    "users": []
+    "participants": [
+        {
+            "id": 1,
+            "name": "Anirban Mandal",
+            "correct": 4,
+            "incorrect": 1,
+            "percentage": 80.00
+        }
+    ]
 }
